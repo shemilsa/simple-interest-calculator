@@ -18,3 +18,4 @@ Make the script executable:
 chmod +x simple-interest.sh
 Run the script:
 ./simple-interest.sh
+
